@@ -1,0 +1,14 @@
+body{
+    background: rgb(184, 182, 182);
+}
+.container{
+    background: gray;
+    display: flex;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}

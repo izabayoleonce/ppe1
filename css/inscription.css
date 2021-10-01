@@ -1,0 +1,47 @@
+body{
+    background: rgb(207, 206, 204);
+    text-align: center;
+    font-size: medium;
+}
+label{
+    font: size 50px;
+}
+#inscription{
+    background: #635C5C;
+    
+    width: 500px;
+    height: auto;
+    right: auto;
+    position: absolute;
+    top: auto;
+    left: auto;
+    text-align:center;
+}4495e;
+  border-right: 1px solid #34495e;
+  border-bottom: 1px solid #30336b;
+  border-left: 1px solid #30336b ;
+  display: block;
+  margin: 20px auto;
+  text-align: center right;
+  padding: 14px 14px;
+  width: 200px;
+  outline: none;
+  transition: 0.20s;
+  font-size: 20px;
+
+}
+form button{
+  background: rgb(22, 48, 28);
+  color: #ffff;
+}
+
+form a{
+  color: aliceblue;
+}
+form h1{
+  color: rgb(248, 255, 240);
+  font-size: xx-large;
+  font-style: italic;
+
+}
+
